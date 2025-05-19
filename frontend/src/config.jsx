@@ -1,3 +1,3 @@
-const baseUrl = "http://localhost:5001";
+const baseUrl = "https://real-estate-website-backend-nnkw.onrender.com";
 
 export default baseUrl;
